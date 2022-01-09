@@ -2,9 +2,9 @@
 My name is Djie Valencia Santoso. I'm from Indonesia, living in Semarang and currently a Computer Engineering student at Diponegoro University. I like to learn new things and right now I'm learning full-stack web development.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -24,9 +24,10 @@ My name is Djie Valencia Santoso. I'm from Indonesia, living in Semarang and cur
 - [Tesla Roadster Website](https://djievalencias.github.io/TeslaRoadster-Clone/) - Clone of [Tesla Roadster landing page](https://www.tesla.com/roadster)
 ---
 ### GitHub Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djievalencias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djievalencias)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/djievalencias/djievalencias">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djievalencias&show_icons=true&theme=solarized-light" />
+</a>
+                                                                                                                                              
 <!-- Links to social media accounts -->
 [twitter]: https://twitter.com/djievalencias
 [instagram]: https://www.instagram.com/valenciasantoso03/
