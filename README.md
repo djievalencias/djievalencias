@@ -2,9 +2,9 @@
 My name is Djie Valencia Santoso. I'm from Indonesia, living in Semarang and currently a Computer Engineering student at Diponegoro University. I like to learn new things and right now I'm learning full-stack web development.
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -21,9 +21,10 @@ My name is Djie Valencia Santoso. I'm from Indonesia, living in Semarang and cur
 
 ### Kindly check out my projects below! 😊
 - [Calculator](https://djievalencias.github.io/Calculator/) - A simple web calculator
-- [Roadster Website Clone](https://djievalencias.github.io/TeslaRoadster-Clone/) - Tesla Roadster landing page clone
+- [Tesla Roadster Website](https://djievalencias.github.io/TeslaRoadster-Clone/) - Clone of [Tesla Roadster landing page](https://www.tesla.com/roadster)
 ---
 ### GitHub Stats 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djievalencias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djievalencias)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Links to social media accounts -->
