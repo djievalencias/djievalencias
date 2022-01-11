@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Djie Valencia Santoso. I'm from Indonesia, living in Semarang and currently a Computer Engineering student at Diponegoro University. I like to learn new things and right now I'm learning full-stack web development.
+My name is Valencia Santoso. I'm from Indonesia, living in Semarang and currently a Computer Engineering student at Diponegoro University. I like to learn new things and right now I'm learning full-stack web development.
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
