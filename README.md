@@ -26,7 +26,7 @@ My name is Valencia Santoso. I'm from Indonesia, living in Semarang and currentl
 ---
 ### GitHub Stats 📈
 <a href="https://github.com/djievalencias/djievalencias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djievalencias&show_icons=true&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djievalencias&show_icons=true&count_private=true&theme=solarized-light" />
 </a>
                                                                                                                                               
 <!-- Links to social media accounts -->
