@@ -22,6 +22,7 @@ My name is Valencia Santoso. I'm from Indonesia, living in Semarang and currentl
 ### Kindly check out my projects below! 😊
 - [Calculator](https://djievalencias.github.io/Calculator/) - A simple web calculator
 - [Tesla Roadster Website](https://djievalencias.github.io/TeslaRoadster-Clone/) - Clone of [Tesla Roadster landing page](https://www.tesla.com/roadster)
+- [Apple's Home Page](https://djievalencias.github.io/AppleHomePage-Clone/) - Clone of [apple.com](https://www.apple.com/)
 ---
 ### GitHub Stats 📈
 <a href="https://github.com/djievalencias/djievalencias">
