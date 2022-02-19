@@ -25,11 +25,13 @@ My name is Valencia Santoso. I'm from Indonesia, living in Semarang and currentl
 - [Apple's Home Page](https://djievalencias.github.io/AppleHomePage-Clone/) - Clone of [apple.com](https://www.apple.com/)
 ---
 ### GitHub Stats 📈
+<!-- Stats -->
 <a href="https://github.com/djievalencias/djievalencias">
-  <img src="https://github-readme-stats.vercel.app/api?username=djievalencias&show_icons=true&count_private=true&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djievalencias&show_icons=true&line_height=27&count_private=true&theme=solarized-light" alt="Valen's GitHub Stats" />
 </a>
+<!-- Top Langs -->
 <a href="https://github.com/djievalencias/djievalencias">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djievalencias&langs_count=8&layout=compact&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djievalencias&theme=solarized-light&langs_count=3"" />
 </a>
                                                                                                                                               
 <!-- Links to social media accounts -->
