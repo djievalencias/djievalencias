@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Valencia Santoso. I'm from Indonesia, living in Semarang and currently a Computer Engineering student at Diponegoro University. I like to learn new things and right now I'm learning full-stack web development.
+My name is Valencia Santoso. I am a future full-stack web developer. I have strong technical skills and excellent interpersonal skills, enabling me to interact even lead a wide range of people. I am eager to be challenged to grow and improve my IT skills. My greatest passion in life is using my technical know-how to benefit other people and organizations.
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
