@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 My name is Valencia Santoso. I am a future full-stack web developer. I have strong technical skills and excellent interpersonal skills, enabling me to interact even lead a wide range of people. I am eager to be challenged to grow and improve my IT skills. My greatest passion in life is using my technical know-how to benefit other people and organizations.
 
 ### Connect with me:
