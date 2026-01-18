@@ -1,28 +1,27 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is Valencia Santoso. I am a future full-stack web developer. I have strong technical skills and excellent interpersonal skills, enabling me to interact even lead a wide range of people. I am eager to be challenged to grow and improve my IT skills. My greatest passion in life is using my technical know-how to benefit other people and organizations.
+## Hi, I'm Valen ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+I am an iOS Developer focused on building production-ready iOS apps with Swift and SwiftUI. Experienced in shipping apps end-to-end, applying MVVM, and turning raw data into UI through clean architecture.
 
 ### Connect with me:
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Swift" width="30px" src="https://developer.apple.com/assets/elements/icons/swift/swift-128x128_2x.png" />
+<img align="left" alt="SwiftUI" width="30px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128_2x.png" />
+<img align="left" alt="HealthKit" width="30px" src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-128x128_2x.png" />
+<img align="left" alt="ARKit" width="30px" src="https://developer.apple.com/assets/elements/icons/arkit/arkit-128x128_2x.png" />
+<img align="left" alt="GameKit" width="30px" src="https://developer.apple.com/assets/elements/icons/game-center/game-center-128x128_2x.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 
 ### Kindly check out my projects below! 😊
-- [Calculator](https://djievalencias.github.io/Calculator/) - A simple web calculator
-- [Tesla Roadster Website](https://djievalencias.github.io/TeslaRoadster-Clone/) - Clone of [Tesla Roadster landing page](https://www.tesla.com/roadster)
-- [Apple's Home Page](https://djievalencias.github.io/AppleHomePage-Clone/) - Clone of [apple.com](https://www.apple.com/)
+- [Loopa](https://github.com/Melkijo/C6-TimBejo) - Brain games to train spatial memory.
+- [RunDay](https://github.com/SwiftUI-Sport) - Help prevent overtraining for beginner runners.
+- [Lloyd](https://github.com/unxpctdchrs/LLoyd) - AR educational game by diagnosing capacitor faults.
 ---
 ### GitHub Stats 📈
 <!-- Stats -->
@@ -35,6 +34,5 @@ My name is Valencia Santoso. I am a future full-stack web developer. I have stro
 </a>
                                                                                                                                               
 <!-- Links to social media accounts -->
-[twitter]: https://twitter.com/djievalencias
 [instagram]: https://www.instagram.com/valenciasantoso03/
 [linkedin]: https://www.linkedin.com/in/djievalencias/
