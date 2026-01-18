@@ -21,7 +21,7 @@ I am an iOS Developer focused on building production-ready iOS apps with Swift a
 ### Kindly check out my projects below! 😊
 - [Loopa](https://github.com/Melkijo/C6-TimBejo) - Brain games to train spatial memory.
 - [RunDay](https://github.com/SwiftUI-Sport) - Help prevent overtraining for beginner runners.
-- [Lloyd](https://github.com/unxpctdchrs/LLoyd) - AR educational game by diagnosing capacitor faults.
+- [Lloyd: Electrofix Journey](https://github.com/unxpctdchrs/LLoyd) - AR educational game by diagnosing capacitor faults.
 ---
 ### GitHub Stats 📈
 <!-- Stats -->
