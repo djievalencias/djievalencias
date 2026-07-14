@@ -12,11 +12,11 @@ Cloud and DevOps Engineer.
 
 ## Projects
 
-### [Procal](https://github.com/djievalencias/procal-infra-5) — Multi-service project cost calculator
+### [PlanPal](https://github.com/djievalencias/planpal-infra) — AI-assisted meeting scheduler for teams
 
-I handled production infrastructure and CI/CD. Built the full AWS environment in Terraform: ALBs for the Next.js frontend and FastAPI backend, Auto Scaling Groups, RDS Postgres with AWS-managed secret rotation, SNS/SQS for the event backbone, Secrets Manager, and Route 53 with ACM. Set up Bitbucket Pipelines with OIDC deploy roles, build-once/deploy-many, semver tags, manual gate on prod.
+I handled production infrastructure and CI/CD. Built the layered AWS environment in Terraform: public and internal ALBs with WAF for the Next.js web client and Rust backend, Auto Scaling Groups on golden AMIs, RDS Postgres, ElastiCache Redis, a self-hosted NATS cluster as the event backbone, Secrets Manager, and split-horizon Route 53 with ACM. CI/CD runs a credential-less Bitbucket Pipelines gate (tflint, Trivy, Checkov, terraform test) with Atlantis plan/apply via PR comments over a Bitbucket OIDC role, manual gate on prod.
 
-`Terraform` `AWS` `ALB` `ASG` `RDS` `SNS/SQS` `Secrets Manager` `Bitbucket Pipelines` `OIDC`
+`Terraform` `AWS` `ALB` `ASG` `RDS` `NATS` `Secrets Manager` `Atlantis` `Bitbucket Pipelines` `OIDC`
 
 ---
 
